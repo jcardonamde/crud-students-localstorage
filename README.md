@@ -60,7 +60,7 @@ Si ya tienes el proyecto clonado:
 
 1. **Clona el repositorio**
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/jcardonamde/crud-students-localstorage.git
    cd crud-students-localstorage
    ```
 
